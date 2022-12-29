@@ -1,4 +1,4 @@
-# React Chatbot App
+# React Chatbot App 🤖
 
 ✔ Send messages and talk with chatbot.
 ✔ Online - offline function.
